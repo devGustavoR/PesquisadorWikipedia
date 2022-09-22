@@ -1,7 +1,7 @@
 
 # 🔎Pesquisador Wikipedia
 
-Project created for personal use with the intention of practicing the python language
+Project created for personal use with the intention of practicing the python language and API Wikipedia
 
 
 ## 👨‍💻Autor
