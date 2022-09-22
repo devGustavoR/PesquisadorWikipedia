@@ -1,13 +1,15 @@
 
-# Pesquisador Wikipedia
+# 🔎Pesquisador Wikipedia
 
 Project created for personal use with the intention of practicing the python language
 
 
-## Autor
+## 👨‍💻Autor
 
 - [@devgustavor](https://github.com/devGustavoR)
 
+## Languages used:
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 
 ## For local run
